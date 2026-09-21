@@ -1,3 +1,4 @@
+```
 docs/
 ├─ README.md
 │
@@ -53,3 +54,4 @@ docs/
 │  └─ ctf-writeup-template.md
 │
 └─ LICENSE
+```
